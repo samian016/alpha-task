@@ -28,7 +28,7 @@
 }
 .inputField{
     /* position:absolute; */
-    width:380px;
+    width:85%;
     height: 50px;
     margin-bottom: 5%;
     background: #FFFFFF;
@@ -55,7 +55,7 @@
     color: #FF0000;
 }
 .buttonSubmit{
-    width: 380px;
+    width: 85%;
     height: 53px;
     left: 1214px;
     top: 618px;
